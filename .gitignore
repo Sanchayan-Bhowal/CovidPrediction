@@ -2,3 +2,7 @@
 __pycache__
 */__pycache__
 /help.txt
+/build
+/dist
+/app.spec
+/app.exe

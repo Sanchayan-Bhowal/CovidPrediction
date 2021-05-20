@@ -10,6 +10,7 @@ def predict(X):
 temp=predict([[0,0,0,0,0,0,0,0]])
 
 root = tk.Tk()
+root.title('Predictor')
 
 vars_list = []
 fields=[('Cough',(('Yes',1),('No',0))),
